@@ -1,6 +1,6 @@
 Name:		texlive-latex-make
 Version:	60874
-Release:	1
+Release:	2
 Summary:	Easy compiling of complex (and simple) LaTeX documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latex-make
