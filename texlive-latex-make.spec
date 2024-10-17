@@ -3,7 +3,7 @@ Version:	60874
 Release:	2
 Summary:	Easy compiling of complex (and simple) LaTeX documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latex-make
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/latex-make
 License:	gpl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex-make.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex-make.doc.r%{version}.tar.xz
